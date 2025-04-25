@@ -35,6 +35,7 @@ export function getStudentsData(): IStudentData[] {
      * 3. Petr Ivanov 19 лет
      *
      */
+
     return [
         {
             name: 'Ivan',
